@@ -1,8 +1,9 @@
 body{
-    background-color: aquamarine;
+    background-color: #00FFD1;
 }
 
-title{
-    color: black;
+.Title{
+    color: #0008C1;
+    text-align: center;
     
 }
